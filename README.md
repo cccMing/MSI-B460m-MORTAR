@@ -27,9 +27,10 @@ Opencore 版本：0.6.5
 2. **关闭Intel VT-D Tech**
 3. **关闭IGD Multi-Monitor**
 4. **关闭Intel Virtualization Tech**
-## 功能测试
 
 ## 注意事项
 
 1. **登陆Apple ID前先检查序列号等信息，避免与他人重复**
+
+
 
